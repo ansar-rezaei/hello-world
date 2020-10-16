@@ -8,4 +8,4 @@ def mounthly_payment(principal, annual_interest_rate, duration):
     return m
 
 m = mounthly_payment(1000.0,4.5,5)
-print(m)
+print("m=",m)
