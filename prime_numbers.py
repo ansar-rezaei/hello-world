@@ -1,4 +1,5 @@
 #Print Prime Numbers between 1 to 50
+#This is a python code
 n = 2
 
 while (n<51):
