@@ -1,5 +1,5 @@
 #function to calculate Area and circumference of a rectangle
-
+#This is a sample excercise of Python Course
 r = input("radius: ")
 
 def rec_fun (r):
