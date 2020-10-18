@@ -1,5 +1,6 @@
 #Print Prime Numbers between 1 to 50
 #This is a python code
+#Test Smart Commit
 n = 2
 
 while (n<51):
