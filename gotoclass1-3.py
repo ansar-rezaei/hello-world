@@ -1,3 +1,4 @@
+# New Commit
 def mounthly_payment(principal, annual_interest_rate, duration):
     n = duration * 12
     if annual_interest_rate == 0:

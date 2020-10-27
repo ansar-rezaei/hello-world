@@ -1,3 +1,4 @@
+#Prime Numbers with For Loop
 i = 2
 
 for n in range (2,51):
